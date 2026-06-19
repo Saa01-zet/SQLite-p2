@@ -1,0 +1,1 @@
+SELECT d.Name AS DepartmentName, AVG(c.Salary) AS AvgSalary FROM Contacts c JOIN Departments d ON c.DepartmentId = d.Id GROUP BY d.Name HAVING AVG(c.Salary) > 40000;

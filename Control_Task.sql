@@ -1,0 +1,1 @@
+SELECT d.Name AS DepartmentName, MAX(c.Salary) AS MaxSalary FROM Contacts c JOIN Departments d ON c.DepartmentId = d.Id GROUP BY d.Name ORDER BY MaxSalary DESC;

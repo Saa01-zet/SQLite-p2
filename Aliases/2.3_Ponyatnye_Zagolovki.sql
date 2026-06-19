@@ -1,0 +1,1 @@
+SELECT Name AS Genre_Title FROM Genres;

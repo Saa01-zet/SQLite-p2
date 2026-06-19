@@ -1,0 +1,1 @@
+SELECT FullName, Salary * 6 AS Half_Year_Income FROM Contacts;

@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS TotalEmployees, AVG(Salary) AS AverageSalary, MIN(Salary) AS MinSalary, MAX(Salary) AS MaxSalary FROM Contacts;

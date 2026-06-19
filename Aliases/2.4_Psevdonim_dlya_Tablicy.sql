@@ -1,0 +1,1 @@
+SELECT c.* FROM Contacts AS c;

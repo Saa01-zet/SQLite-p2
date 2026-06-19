@@ -1,0 +1,1 @@
+SELECT * FROM Contacts LIMIT 5 OFFSET 10;

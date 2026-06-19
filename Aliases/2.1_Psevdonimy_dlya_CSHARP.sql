@@ -1,0 +1,1 @@
+SELECT FullName AS Employee_Name, Email AS Contact_Info FROM Contacts;

@@ -1,0 +1,1 @@
+SELECT FullName AS Name FROM Contacts WHERE FullName LIKE 'А%';

@@ -1,0 +1,2 @@
+SELECT * FROM Contacts WHERE Email IS NULL;
+SELECT * FROM Contacts WHERE Email IS NOT NULL;

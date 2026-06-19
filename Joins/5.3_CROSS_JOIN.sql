@@ -1,0 +1,1 @@
+SELECT t1.Color, t2.Size FROM TShirt_Colors t1 CROSS JOIN TShirt_Sizes t2;

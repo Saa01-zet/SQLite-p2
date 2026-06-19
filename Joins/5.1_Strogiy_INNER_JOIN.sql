@@ -1,0 +1,1 @@
+SELECT c.FullName, d.Name AS DepartmentName FROM Contacts c INNER JOIN Departments d ON c.DepartmentId = d.Id;

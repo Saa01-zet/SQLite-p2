@@ -1,0 +1,1 @@
+SELECT Id, FullName FROM Authors;
